@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+            font-size: 13px;
+        }
+        .container {
+            padding: 40px;
+        }
+        .gov-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+        .coat-of-arms {
+            width: 120px;
+            margin-right: 20px;
+        }
+        .gov-text {
+            border-left: 1px solid #ccc;
+            padding-left: 20px;
+        }
+        .gov-name {
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .dept-name {
+            font-size: 14px;
+        }
+        .salutation {
+            margin-bottom: 20px;
+        }
+        .summary-box {
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+        }
+        .summary-header {
+            background-color: #f0f0f0;
+            padding: 10px 15px;
+            font-weight: bold;
+            font-size: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .summary-row {
+            padding: 10px 15px;
+            border-bottom: 1px solid #eee;
+            display: flex;
+        }
+        .summary-row:last-child {
+            border-bottom: none;
+        }
+        .summary-label {
+            width: 250px;
+            color: #555;
+            font-weight: 500;
+        }
+        .summary-value {
+            font-weight: bold;
+        }
+        .conditions-section {
+            background-color: #eef4fb;
+            padding: 15px;
+            margin-top: 20px;
+        }
+        .condition-item {
+            margin-bottom: 10px;
+        }
+        .condition-code {
+            font-weight: bold;
+            color: #004a82;
+        }
+        .footer-info {
+            margin-top: 30px;
+            font-size: 11px;
+            color: #666;
+            border-top: 1px solid #eee;
+            padding-top: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="gov-header">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Australian_Coat_of_Arms.png/600px-Australian_Coat_of_Arms.png" class="coat-of-arms">
+            <div class="gov-text">
+                <div class="gov-name">Australian Government</div>
+                <div class="dept-name">Department of Home Affairs</div>
+            </div>
+        </div>
+
+        <div class="salutation">
+            Dear {{fullName}},
+            <br><br>
+            We have granted you a <strong>{{visaClass}} (subclass {{visaSubclass}})</strong> visa on {{grantDate}}.
+        </div>
+
+        <div class="summary-box">
+            <div class="summary-header">
+                <span>Application status</span>
+                <span>Granted</span>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Visa duration and travel</div>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Date of grant</div>
+                <div class="summary-value">{{grantDate}}</div>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Length of stay</div>
+                <div class="summary-value">{{expiryDate}}</div>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Travel</div>
+                <div class="summary-value">Multiple entries</div>
+            </div>
+        </div>
+
+        <div class="summary-box">
+            <div class="summary-header">
+                <span>Visa summary</span>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Name</div>
+                <div class="summary-value">{{fullName}}</div>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Date of birth</div>
+                <div class="summary-value">{{dob}}</div>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Visa grant number</div>
+                <div class="summary-value">{{grantNumber}}</div>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Passport number</div>
+                <div class="summary-value">{{passportNumber}}</div>
+            </div>
+            <div class="summary-row">
+                <div class="summary-label">Application ID</div>
+                <div class="summary-value">{{applicationId}}</div>
+            </div>
+        </div>
+
+        <div class="conditions-section">
+            <div style="font-weight: bold; margin-bottom: 10px;">Visa conditions</div>
+            <div class="condition-item">
+                <span class="condition-code">8101 - No work:</span> You must not engage in any work while in Australia.
+            </div>
+            <div class="condition-item">
+                <span class="condition-code">8201 - Max 3 months study:</span> You must not study for more than three months.
+            </div>
+        </div>
+
+        <div class="footer-info">
+            Australian Department of Home Affairs | www.homeaffairs.gov.au
+        </div>
+    </div>
+</body>
+</html>

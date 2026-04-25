@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: 'Helvetica', 'Arial', sans-serif;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 50px;
+            font-size: 14px;
+        }
+        .header {
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 18px;
+            text-transform: uppercase;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        .date {
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .address-section {
+            margin-bottom: 30px;
+        }
+        .subject {
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 20px;
+            color: #d32f2f;
+        }
+        .content p {
+            margin-bottom: 15px;
+        }
+        .info-box {
+            background-color: #f9f9f9;
+            border: 1px solid #eee;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+        .footer {
+            margin-top: 50px;
+        }
+        .signature-img {
+            height: 60px;
+            margin-bottom: -10px;
+        }
+        .stamp {
+            float: right;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Invitation Letter – Australian Visitor Visa (Subclass 600)</h1>
+    </div>
+
+    <div class="date">Date: {{today}}</div>
+
+    <div class="address-section">
+        To:<br>
+        The Visa Officer<br>
+        Department of Home Affairs<br>
+        Commonwealth of Australia
+    </div>
+
+    <p>Dear Sir/ Madam,</p>
+
+    <div class="subject">Subject: Invitation Letter for Visitor Visa (Subclass 600)</div>
+
+    <div class="content">
+        <p>I, <strong>Erwin Pouros</strong>, born on 18 August 1991, currently residing at:</p>
+        
+        <div class="info-box">
+            <strong>Address:</strong><br>
+            1–9 Hinkler Drive<br>
+            Gold Coast City<br>
+            Queensland 4214, Australia<br>
+            <strong>Phone:</strong> +61 7 5596 1233
+        </div>
+
+        <p>I am writing this letter to formally invite <strong>Mr. {{fullName}}</strong>, a {{nationality}} citizen, holder of Passport No. <strong>{{passportNumber}}</strong>, born on {{dob}}, to visit me in Australia under the Visitor Visa (Subclass 600).</p>
+
+        <p>The purpose of his visit is tourism and a short family/friend visit, during which he will stay with me at my above-mentioned residential address in Gold Coast, Queensland. The intended visit is temporary, and he will return to his home country before the expiry of his visa.</p>
+
+        <p><strong>I confirm that:</strong></p>
+        <ul style="color: #004a82; font-weight: 500;">
+            <li>I am an Australian citizen / permanent resident.</li>
+            <li>I will provide accommodation during his stay in Australia.</li>
+            <li>The visitor will comply with all Australian visa conditions.</li>
+            <li>The visit is purely for tourism and personal visit purposes.</li>
+        </ul>
+
+        <p>Should you require any further information, please feel free to contact me.</p>
+    </div>
+
+    <div class="footer">
+        <p>Yours faithfully,</p>
+        <div class="signature-box">
+            <img src="https://i.imgur.com/8Q9Z5bM.png" class="signature-img" alt="Signature">
+            <div style="width: 200px; border-bottom: 1px solid #333; margin: 10px 0;"></div>
+            <p>
+                <strong>Erwin Pouros</strong><br>
+                Resident Host<br>
+                Date: {{today}}
+            </p>
+        </div>
+    </div>
+</body>
+</html>

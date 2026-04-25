@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: 'Helvetica', 'Arial', sans-serif;
+            color: #333;
+            line-height: 1.5;
+            margin: 0;
+            padding: 40px;
+            font-size: 14px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #004a82;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        .logo-container {
+            width: 250px;
+        }
+        .logo-container img {
+            width: 100%;
+        }
+        .company-info {
+            text-align: right;
+            color: #004a82;
+        }
+        .company-name {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .title {
+            text-align: center;
+            font-size: 22px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            color: #1a2b3c;
+        }
+        .date {
+            margin-bottom: 20px;
+            text-align: right;
+        }
+        .details-table {
+            width: 100%;
+            margin-bottom: 30px;
+            border-collapse: collapse;
+        }
+        .details-table td {
+            padding: 8px 0;
+        }
+        .label {
+            width: 150px;
+            color: #666;
+        }
+        .value {
+            font-weight: 500;
+            color: #1a2b3c;
+        }
+        .section-title {
+            font-weight: bold;
+            text-decoration: underline;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .content p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        .footer {
+            margin-top: 50px;
+        }
+        .signature-box {
+            margin-top: 30px;
+        }
+        .signature-line {
+            width: 200px;
+            border-top: 1px solid #333;
+            margin-top: 40px;
+            padding-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo-container">
+            <img src="https://biogreenworld.com.au/wp-content/uploads/2021/04/Logo-Green-World-Co-Pty-Ltd.png" alt="Company Logo">
+        </div>
+        <div class="company-info">
+            <div class="company-name">{{sponsorName}}</div>
+            <div>35 McArthurs Rd, Altona</div>
+            <div>North VIC 3025, Australia</div>
+        </div>
+    </div>
+
+    <div class="date">Date: {{today}}</div>
+
+    <div class="title">Employment Contract - 2 Years</div>
+
+    <div class="content">
+        <p>{{sponsorName}} is pleased to offer you a job as a <strong>{{occupation}}</strong> and will be responsible for transportation and logistics operations related to company packaging and distribution activities.</p>
+        <p>Should you accept this job offer, per company policy you'll be eligible to receive the following beginning on your Hire Date.</p>
+    </div>
+
+    <table class="details-table">
+        <tr>
+            <td class="label">Full Name:</td>
+            <td class="value">{{fullName}}</td>
+        </tr>
+        <tr>
+            <td class="label">Nationality:</td>
+            <td class="value">{{nationality}}</td>
+        </tr>
+        <tr>
+            <td class="label">Passport No.:</td>
+            <td class="value">{{passportNumber}}</td>
+        </tr>
+        <tr>
+            <td class="label">D.O.B.:</td>
+            <td class="value">{{dob}}</td>
+        </tr>
+        <tr>
+            <td class="label">Designation:</td>
+            <td class="value">{{occupation}}</td>
+        </tr>
+        <tr>
+            <td class="label">Salary:</td>
+            <td class="value">AUD $ {{salary}} / month</td>
+        </tr>
+    </table>
+
+    <div class="section-title">WORK SCHEDULE</div>
+    <p>The employee shall work full-time hours, typically 38–48 hours per week, with overtime as required based on operational needs.</p>
+
+    <div class="section-title">DURATION OF CONTRACT:</div>
+    <ul>
+        <li>This contract shall have a duration of 2 years from the date the employee assumes his/her functions.</li>
+        <li>Both parties agree that this contract is conditional upon the employee obtaining a valid work permit pursuant to the immigration regulations, and his/her successful entry to Australia.</li>
+    </ul>
+
+    <div class="section-title">ACCOMMODATION:</div>
+    <p>The company shall provide you with a bachelor-shared accommodation nearby the company. The accommodation is inclusive of public utilities expenses.</p>
+
+    <div class="footer">
+        <p>Sincerely,</p>
+        <div class="signature-box">
+            <img src="https://i.imgur.com/8Q9Z5bM.png" style="height: 60px; margin-bottom: -15px;" alt="Signature">
+            <p><strong>Paul Moskowitz</strong><br>Hiring Coordinator</p>
+        </div>
+    </div>
+</body>
+</html>

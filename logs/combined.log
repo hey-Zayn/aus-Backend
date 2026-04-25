@@ -1,0 +1,315 @@
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:18:18"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:18:27"}
+{"level":"info","message":"MongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net","timestamp":"2026-04-25 15:18:29"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:19:02"}
+{"level":"info","message":"MongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net.green.bold","timestamp":"2026-04-25 15:19:04"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:19:06"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:19:10"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:19:21"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:19:24"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:19:33"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:19:38"}
+{"level":"error","message":"\u001b[1m\u001b[31mError: Cannot read properties of undefined (reading 'bold')\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:19:41"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:19:48"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:19:50"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:19:57"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:19:59"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:20:29"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:20:30"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:20:38"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:20:40"}
+{"level":"info","message":"Server is running on port undefined","timestamp":"2026-04-25 15:20:49"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:20:50"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:20:55"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:20:57"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:24:09"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:24:12"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:27:01"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:27:05"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:28:38"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:28:42"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:29:10"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:29:12"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:29:28"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:29:30"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:30:52"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:30:56"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:34:23"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:34:28"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:34:50"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:34:52"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:34:59"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:35:03"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:35:14"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:35:15"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:35:21"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:35:23"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 15:35:47"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:35:49"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:36:30"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:36:32"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:37:23"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:37:25"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:37:51"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:37:54"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 15:38:03"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 15:38:05"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 16:00:49"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:00:53"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 16:01:00"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:01:02"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 16:01:20"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 16:01:24"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:01:25"}
+{"level":"info","message":"Server is running on port \u001b[34m5000\u001b[39m","timestamp":"2026-04-25 16:04:49"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:04:52"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 16:09:46"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:09:49"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 16:09:58"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:10:00"}
+{"level":"info","message":"VEVO enquiry received for DocType: Passport","timestamp":"2026-04-25 16:11:46"}
+{"level":"warn","message":"VEVO enquiry failed: No match found for provided details.","timestamp":"2026-04-25 16:11:46"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa/verify \u001b[33m404\u001b[0m 182.161 ms - 92\u001b[0m","timestamp":"2026-04-25 16:11:46"}
+{"level":"info","message":"VEVO enquiry received for DocType: Passport","timestamp":"2026-04-25 16:12:16"}
+{"level":"warn","message":"VEVO enquiry failed: No match found for provided details.","timestamp":"2026-04-25 16:12:16"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa/verify \u001b[33m404\u001b[0m 201.445 ms - 92\u001b[0m","timestamp":"2026-04-25 16:12:16"}
+{"level":"info","message":"VEVO enquiry received for DocType: Passport","timestamp":"2026-04-25 16:14:01"}
+{"level":"warn","message":"VEVO enquiry failed: No match found for provided details.","timestamp":"2026-04-25 16:14:01"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa/verify \u001b[33m404\u001b[0m 176.088 ms - 92\u001b[0m","timestamp":"2026-04-25 16:14:01"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 16:16:34"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:16:36"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 16:17:15"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 16:17:20"}
+{"level":"info","message":"VEVO enquiry received for DocType: Passport","timestamp":"2026-04-25 16:17:41"}
+{"level":"info","message":"VEVO enquiry successful for: ZAYN MALIK","timestamp":"2026-04-25 16:17:42"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa/verify \u001b[32m200\u001b[0m 182.337 ms - 859\u001b[0m","timestamp":"2026-04-25 16:17:42"}
+{"level":"info","message":"VEVO enquiry received for DocType: Passport","timestamp":"2026-04-25 16:19:31"}
+{"level":"info","message":"VEVO enquiry successful for: ZAYN MALIK","timestamp":"2026-04-25 16:19:31"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa/verify \u001b[32m200\u001b[0m 198.679 ms - 859\u001b[0m","timestamp":"2026-04-25 16:19:31"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/register \u001b[32m200\u001b[0m 21.360 ms - 22\u001b[0m","timestamp":"2026-04-25 17:20:32"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/signup \u001b[33m400\u001b[0m 269.818 ms - 34\u001b[0m","timestamp":"2026-04-25 17:20:58"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/signup \u001b[31m500\u001b[0m 322.305 ms - 35\u001b[0m","timestamp":"2026-04-25 17:21:13"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/signup \u001b[31m500\u001b[0m 254.421 ms - 35\u001b[0m","timestamp":"2026-04-25 17:21:28"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 17:21:39"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 17:21:46"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 17:21:48"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 17:21:51"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 17:21:53"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/signup \u001b[32m201\u001b[0m 608.953 ms - 57\u001b[0m","timestamp":"2026-04-25 17:21:55"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/login \u001b[32m200\u001b[0m 259.615 ms - 57\u001b[0m","timestamp":"2026-04-25 17:22:08"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[32m200\u001b[0m 171.289 ms - 168\u001b[0m","timestamp":"2026-04-25 17:22:08"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 163.374 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:09"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 181.714 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:13"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 167.651 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:13"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 166.544 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:19"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 165.162 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:19"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 168.941 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:24"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 163.804 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:24"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 162.955 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:31"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 162.527 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:32"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 171.271 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:40"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 163.905 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:40"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 166.387 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:45"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 162.733 ms - -\u001b[0m","timestamp":"2026-04-25 17:22:45"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 164.412 ms - -\u001b[0m","timestamp":"2026-04-25 17:23:01"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 164.679 ms - -\u001b[0m","timestamp":"2026-04-25 17:23:01"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 17:33:08"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 17:33:12"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/login \u001b[32m200\u001b[0m 377.245 ms - 57\u001b[0m","timestamp":"2026-04-25 17:40:24"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 195.709 ms - -\u001b[0m","timestamp":"2026-04-25 17:40:24"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 187.897 ms - -\u001b[0m","timestamp":"2026-04-25 17:40:25"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[32m200\u001b[0m 373.309 ms - 138\u001b[0m","timestamp":"2026-04-25 17:40:30"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 372.709 ms - -\u001b[0m","timestamp":"2026-04-25 17:40:31"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 17:44:45"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 17:44:50"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 17:48:12"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 17:48:19"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 17:48:22"}
+{"level":"info","message":"Visa created successfully for user: 69ecb1e3b85f1cd3adfd4749","timestamp":"2026-04-25 17:48:41"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa \u001b[32m201\u001b[0m 4236.813 ms - 1069\u001b[0m","timestamp":"2026-04-25 17:48:41"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[32m200\u001b[0m 788.704 ms - 647\u001b[0m","timestamp":"2026-04-25 17:48:41"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 818.210 ms - -\u001b[0m","timestamp":"2026-04-25 17:48:43"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 354.318 ms - -\u001b[0m","timestamp":"2026-04-25 17:48:43"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/69ecb8281361bf6de36ca25c \u001b[32m200\u001b[0m 343.427 ms - 1031\u001b[0m","timestamp":"2026-04-25 17:48:55"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/69ecb8281361bf6de36ca25c \u001b[36m304\u001b[0m 331.382 ms - -\u001b[0m","timestamp":"2026-04-25 17:48:55"}
+{"level":"info","message":"VEVO enquiry received for DocType: DFTTA","timestamp":"2026-04-25 17:50:10"}
+{"level":"info","message":"VEVO enquiry successful for: Tayyab Butt","timestamp":"2026-04-25 17:50:11"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa/verify \u001b[32m200\u001b[0m 173.080 ms - 766\u001b[0m","timestamp":"2026-04-25 17:50:11"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 412.194 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:17"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 329.945 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:17"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10&visaStatus=Expired \u001b[32m200\u001b[0m 333.113 ms - 138\u001b[0m","timestamp":"2026-04-25 17:59:22"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 338.160 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:25"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10&visaClass=Student \u001b[32m200\u001b[0m 325.543 ms - 647\u001b[0m","timestamp":"2026-04-25 17:59:27"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 243.395 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:36"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 165.457 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:36"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10&visaClass=Student \u001b[36m304\u001b[0m 3636.066 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:39"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10&visaClass=Student \u001b[36m304\u001b[0m 338.291 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:39"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10&visaClass=Student \u001b[36m304\u001b[0m 324.862 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:40"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10&visaClass=Student \u001b[36m304\u001b[0m 333.455 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:40"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 169.864 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:43"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 164.823 ms - -\u001b[0m","timestamp":"2026-04-25 17:59:43"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 4371.055 ms - -\u001b[0m","timestamp":"2026-04-25 18:24:15"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 170.572 ms - -\u001b[0m","timestamp":"2026-04-25 18:24:15"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:14:45"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:14:48"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:14:54"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:14:56"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:15:11"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:15:13"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:15:19"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:15:21"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:15:51"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:15:55"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:19:55"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:19:58"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/signup \u001b[0m-\u001b[0m - ms - -\u001b[0m","timestamp":"2026-04-25 19:22:46"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/signup \u001b[32m201\u001b[0m 6287.712 ms - 112\u001b[0m","timestamp":"2026-04-25 19:23:21"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/verify-email \u001b[32m200\u001b[0m 397.119 ms - 99\u001b[0m","timestamp":"2026-04-25 19:23:42"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[32m200\u001b[0m 214.797 ms - 185\u001b[0m","timestamp":"2026-04-25 19:23:43"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 181.259 ms - -\u001b[0m","timestamp":"2026-04-25 19:23:43"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/logout \u001b[32m200\u001b[0m 1.781 ms - 37\u001b[0m","timestamp":"2026-04-25 19:24:01"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/login \u001b[32m200\u001b[0m 6534.752 ms - 112\u001b[0m","timestamp":"2026-04-25 19:24:27"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/verify-login \u001b[32m200\u001b[0m 370.548 ms - 99\u001b[0m","timestamp":"2026-04-25 19:24:47"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[32m200\u001b[0m 160.308 ms - 185\u001b[0m","timestamp":"2026-04-25 19:24:47"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 194.754 ms - -\u001b[0m","timestamp":"2026-04-25 19:24:48"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[32m200\u001b[0m 611.228 ms - 138\u001b[0m","timestamp":"2026-04-25 19:26:09"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 399.132 ms - -\u001b[0m","timestamp":"2026-04-25 19:26:10"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:31:30"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:31:32"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 19:32:18"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 19:32:19"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 195.960 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:10"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[32m200\u001b[0m 460.050 ms - 446\u001b[0m","timestamp":"2026-04-25 19:41:10"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 173.487 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:10"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 328.427 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:10"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 333.250 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:11"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 343.874 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:11"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 372.813 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:20"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 380.708 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:20"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 379.067 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:21"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 329.309 ms - -\u001b[0m","timestamp":"2026-04-25 19:41:21"}
+{"level":"info","message":"\u001b[0mDELETE /api/v2/auth/69ecce28cd578a5d44d92f4a \u001b[32m200\u001b[0m 357.565 ms - 39\u001b[0m","timestamp":"2026-04-25 19:41:27"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[32m200\u001b[0m 328.710 ms - 187\u001b[0m","timestamp":"2026-04-25 19:42:45"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 334.136 ms - -\u001b[0m","timestamp":"2026-04-25 19:42:49"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 325.479 ms - -\u001b[0m","timestamp":"2026-04-25 19:42:50"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 167.590 ms - -\u001b[0m","timestamp":"2026-04-25 19:47:11"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 166.591 ms - -\u001b[0m","timestamp":"2026-04-25 19:47:11"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 327.326 ms - -\u001b[0m","timestamp":"2026-04-25 19:47:14"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 332.603 ms - -\u001b[0m","timestamp":"2026-04-25 19:47:14"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/signup \u001b[32m201\u001b[0m 6311.929 ms - 111\u001b[0m","timestamp":"2026-04-25 19:47:57"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[32m200\u001b[0m 378.135 ms - 460\u001b[0m","timestamp":"2026-04-25 19:47:59"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 413.613 ms - -\u001b[0m","timestamp":"2026-04-25 19:48:16"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[33m401\u001b[0m 0.520 ms - 46\u001b[0m","timestamp":"2026-04-25 19:48:33"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[33m401\u001b[0m 0.444 ms - 46\u001b[0m","timestamp":"2026-04-25 19:48:33"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[33m401\u001b[0m 0.449 ms - 46\u001b[0m","timestamp":"2026-04-25 19:48:33"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[33m401\u001b[0m 0.421 ms - 46\u001b[0m","timestamp":"2026-04-25 19:48:33"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/login \u001b[32m200\u001b[0m 6095.188 ms - 111\u001b[0m","timestamp":"2026-04-25 19:49:13"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/verify-login \u001b[32m200\u001b[0m 347.148 ms - 100\u001b[0m","timestamp":"2026-04-25 19:49:25"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[32m200\u001b[0m 164.018 ms - 186\u001b[0m","timestamp":"2026-04-25 19:49:26"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 162.991 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:26"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[32m200\u001b[0m 324.818 ms - 374\u001b[0m","timestamp":"2026-04-25 19:49:30"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 332.671 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:30"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 171.003 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:49"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[32m200\u001b[0m 339.329 ms - 374\u001b[0m","timestamp":"2026-04-25 19:49:49"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 165.819 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:49"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 350.526 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:50"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 332.508 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:50"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 323.347 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:50"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 331.554 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:57"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 335.473 ms - -\u001b[0m","timestamp":"2026-04-25 19:49:58"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 20:03:20"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 20:03:26"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 20:14:59"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 20:15:03"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 21:28:58"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-02.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 21:29:03"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 21:31:19"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 21:31:22"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 273.774 ms - -\u001b[0m","timestamp":"2026-04-25 21:49:55"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 181.585 ms - -\u001b[0m","timestamp":"2026-04-25 21:49:56"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 3399.542 ms - -\u001b[0m","timestamp":"2026-04-25 21:49:58"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 408.677 ms - -\u001b[0m","timestamp":"2026-04-25 21:49:59"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 432.943 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:01"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 421.990 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:01"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 163.617 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:14"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 184.652 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:15"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 439.546 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:15"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 837.854 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:15"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 393.645 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:16"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 419.082 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:16"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 428.484 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:27"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 420.578 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:27"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 343.409 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:28"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 333.458 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:28"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 388.362 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:29"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 438.033 ms - -\u001b[0m","timestamp":"2026-04-25 21:50:29"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:07:29"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:07:33"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/login \u001b[33m400\u001b[0m 303.605 ms - 33\u001b[0m","timestamp":"2026-04-25 23:07:57"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/login \u001b[32m200\u001b[0m 6847.558 ms - 112\u001b[0m","timestamp":"2026-04-25 23:08:15"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/auth/verify-login \u001b[32m200\u001b[0m 400.356 ms - 99\u001b[0m","timestamp":"2026-04-25 23:08:35"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[32m200\u001b[0m 191.347 ms - 185\u001b[0m","timestamp":"2026-04-25 23:08:35"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 170.595 ms - -\u001b[0m","timestamp":"2026-04-25 23:08:35"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 344.290 ms - -\u001b[0m","timestamp":"2026-04-25 23:08:39"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 338.116 ms - -\u001b[0m","timestamp":"2026-04-25 23:08:39"}
+{"level":"info","message":"Visa created successfully for user: 69ecce53cd578a5d44d92f4b","timestamp":"2026-04-25 23:13:34"}
+{"level":"info","message":"\u001b[0mPOST /api/v2/visa \u001b[32m201\u001b[0m 2410.482 ms - 1008\u001b[0m","timestamp":"2026-04-25 23:13:34"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[32m200\u001b[0m 330.900 ms - 645\u001b[0m","timestamp":"2026-04-25 23:13:34"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 333.326 ms - -\u001b[0m","timestamp":"2026-04-25 23:13:35"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 332.327 ms - -\u001b[0m","timestamp":"2026-04-25 23:13:35"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[32m200\u001b[0m 325.512 ms - 374\u001b[0m","timestamp":"2026-04-25 23:13:38"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 887.220 ms - -\u001b[0m","timestamp":"2026-04-25 23:13:39"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 322.666 ms - -\u001b[0m","timestamp":"2026-04-25 23:13:40"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 339.103 ms - -\u001b[0m","timestamp":"2026-04-25 23:13:40"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:23:02"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:23:06"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 635.849 ms - -\u001b[0m","timestamp":"2026-04-25 23:43:44"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 172.255 ms - -\u001b[0m","timestamp":"2026-04-25 23:43:44"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 170.809 ms - -\u001b[0m","timestamp":"2026-04-25 23:49:14"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 167.406 ms - -\u001b[0m","timestamp":"2026-04-25 23:49:15"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 389.164 ms - -\u001b[0m","timestamp":"2026-04-25 23:49:21"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 385.929 ms - -\u001b[0m","timestamp":"2026-04-25 23:49:22"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 354.743 ms - -\u001b[0m","timestamp":"2026-04-25 23:49:24"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 366.414 ms - -\u001b[0m","timestamp":"2026-04-25 23:49:25"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 174.908 ms - -\u001b[0m","timestamp":"2026-04-25 23:52:09"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 169.291 ms - -\u001b[0m","timestamp":"2026-04-25 23:52:09"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:53:21"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:53:27"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:53:38"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:53:40"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:53:52"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:53:55"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:54:10"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-00.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:54:12"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:54:33"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:54:36"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:54:55"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:54:57"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2026-04-25 23:55:03"}
+{"level":"info","message":"\u001b[1m\u001b[32mMongoDB Connected: ac-q7vir8z-shard-00-01.5ip5e9f.mongodb.net\u001b[39m\u001b[22m","timestamp":"2026-04-25 23:55:05"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 198.504 ms - -\u001b[0m","timestamp":"2026-04-25 23:55:21"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 167.585 ms - -\u001b[0m","timestamp":"2026-04-25 23:55:21"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 160.373 ms - -\u001b[0m","timestamp":"2026-04-25 23:59:20"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 175.711 ms - -\u001b[0m","timestamp":"2026-04-25 23:59:20"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 181.879 ms - -\u001b[0m","timestamp":"2026-04-26 00:01:33"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 168.961 ms - -\u001b[0m","timestamp":"2026-04-26 00:02:38"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 173.405 ms - -\u001b[0m","timestamp":"2026-04-26 00:02:38"}
+{"level":"info","message":"\u001b[0mGET /api/v2/settings \u001b[32m200\u001b[0m 374.525 ms - 431\u001b[0m","timestamp":"2026-04-26 00:02:39"}
+{"level":"info","message":"\u001b[0mGET /api/v2/settings \u001b[32m200\u001b[0m 160.238 ms - 431\u001b[0m","timestamp":"2026-04-26 00:02:40"}
+{"level":"info","message":"\u001b[0mPUT /api/v2/settings \u001b[32m200\u001b[0m 2175.523 ms - 115860\u001b[0m","timestamp":"2026-04-26 00:03:03"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 745.993 ms - -\u001b[0m","timestamp":"2026-04-26 00:03:11"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 514.143 ms - -\u001b[0m","timestamp":"2026-04-26 00:03:12"}
+{"level":"info","message":"\u001b[0mGET /api/v2/settings \u001b[32m200\u001b[0m 802.851 ms - 115818\u001b[0m","timestamp":"2026-04-26 00:03:15"}
+{"level":"info","message":"\u001b[0mGET /api/v2/settings \u001b[36m304\u001b[0m 697.876 ms - -\u001b[0m","timestamp":"2026-04-26 00:03:16"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 320.404 ms - -\u001b[0m","timestamp":"2026-04-26 00:03:32"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth \u001b[36m304\u001b[0m 315.363 ms - -\u001b[0m","timestamp":"2026-04-26 00:03:32"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 354.053 ms - -\u001b[0m","timestamp":"2026-04-26 00:03:34"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 319.704 ms - -\u001b[0m","timestamp":"2026-04-26 00:03:34"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 176.342 ms - -\u001b[0m","timestamp":"2026-04-26 00:04:03"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 330.010 ms - -\u001b[0m","timestamp":"2026-04-26 00:04:04"}
+{"level":"info","message":"\u001b[0mGET /api/v2/auth/me \u001b[36m304\u001b[0m 176.250 ms - -\u001b[0m","timestamp":"2026-04-26 00:04:04"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 326.230 ms - -\u001b[0m","timestamp":"2026-04-26 00:04:04"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 333.104 ms - -\u001b[0m","timestamp":"2026-04-26 00:04:04"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 322.700 ms - -\u001b[0m","timestamp":"2026-04-26 00:04:05"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 340.356 ms - -\u001b[0m","timestamp":"2026-04-26 00:04:59"}
+{"level":"info","message":"\u001b[0mGET /api/v2/visa/all?page=1&limit=10 \u001b[36m304\u001b[0m 323.367 ms - -\u001b[0m","timestamp":"2026-04-26 00:05:00"}
