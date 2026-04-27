@@ -36,6 +36,18 @@ exports.createVisa = async (req, res) => {
 
     } catch (error) {
         logger.error(`Error creating visa: ${error.message}`);
+        
+        // Handle MongoDB Duplicate Key Error (E11000)
+        if (error.code === 11000) {
+            const field = Object.keys(error.keyPattern)[0];
+            const message = `Duplicate value for field: ${field}. Please use a unique value.`;
+            return res.status(400).json({ 
+                success: false, 
+                message, 
+                error: `A record with this ${field} already exists.` 
+            });
+        }
+
         res.status(500).json({ message: "Internal server error", error: error.message });
     }
 };
@@ -162,6 +174,17 @@ exports.updateVisa = async (req, res) => {
 
     } catch (error) {
         logger.error(`Error updating visa: ${error.message}`);
+
+        // Handle MongoDB Duplicate Key Error (E11000)
+        if (error.code === 11000) {
+            const field = Object.keys(error.keyPattern)[0];
+            return res.status(400).json({ 
+                success: false, 
+                message: `The ${field} you provided is already in use by another record.`,
+                error: error.message 
+            });
+        }
+
         res.status(500).json({ message: "Internal server error", error: error.message });
     }
 };

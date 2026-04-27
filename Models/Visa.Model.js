@@ -34,7 +34,6 @@ const visaSchema = new mongoose.Schema({
         passportNumber: {
             type: String,
             required: true,
-            unique: true,
             uppercase: true
         },
         countryOfIssuance: {
