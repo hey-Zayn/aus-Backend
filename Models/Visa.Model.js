@@ -61,8 +61,7 @@ const visaSchema = new mongoose.Schema({
         },
         visaGrantNumber: {
             type: String,
-            required: true,
-            unique: true
+            required: true
         },
         visaGrantDate: {
             type: Date,
@@ -107,8 +106,7 @@ const visaSchema = new mongoose.Schema({
     // --- Reference & Audit ---
     applicationId: {
         type: String,
-        required: true,
-        unique: true
+        required: true
     },
     transactionReferenceNumber: String,
     referenceType: {
