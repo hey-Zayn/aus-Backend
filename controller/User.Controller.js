@@ -67,13 +67,16 @@ const verifyEmail = async (req, res) => {
         user.verificationTokenExpiresAt = undefined;
         await user.save();
 
-        generateToken(user._id, res);
+        const token = generateToken(user._id, res);
 
         res.status(200).json({
-            _id: user._id,
-            name: user.name,
-            email: user.email,
-            isVerified: user.isVerified,
+            user: {
+                _id: user._id,
+                name: user.name,
+                email: user.email,
+                isVerified: user.isVerified,
+            },
+            token
         });
     } catch (error) {
         console.log("Error in verifyEmail controller", error.message);
@@ -134,13 +137,16 @@ const verifyLogin = async (req, res) => {
         if (!user.isVerified) user.isVerified = true;
         await user.save();
 
-        generateToken(user._id, res);
+        const token = generateToken(user._id, res);
 
         res.status(200).json({
-            _id: user._id,
-            name: user.name,
-            email: user.email,
-            isVerified: user.isVerified,
+            user: {
+                _id: user._id,
+                name: user.name,
+                email: user.email,
+                isVerified: user.isVerified,
+            },
+            token
         });
     } catch (error) {
         console.log("Error in verifyLogin controller", error.message);
