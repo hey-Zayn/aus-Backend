@@ -84,8 +84,43 @@ const PASSWORD_RESET_REQUEST_TEMPLATE = `
 </html>
 `;
 
+const DOCUMENT_EMAIL_TEMPLATE = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Document is Ready</title>
+</head>
+<body style="font-family: sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
+  <div style="background: #004a82; padding: 20px; text-align: center; border-radius: 8px 8px 0 0;">
+    <h1 style="color: white; margin: 0; font-size: 24px; font-weight: normal;">Document Ready</h1>
+  </div>
+  <div style="background-color: #ffffff; padding: 30px; border-radius: 0 0 8px 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); border: 1px solid #e1e1e1;">
+    <p style="font-size: 16px;">Hello <strong>{fullName}</strong>,</p>
+    <p>Your requested document <strong>{documentType}</strong> has been generated successfully and is attached to this email.</p>
+    
+    <div style="background-color: #f8f9fa; border-left: 4px solid #004a82; padding: 15px; margin: 20px 0; font-size: 14px;">
+      <p style="margin: 0;"><strong>Document Details:</strong></p>
+      <p style="margin: 5px 0 0 0;">Type: {documentType}</p>
+      <p style="margin: 2px 0 0 0;">Generated on: {date}</p>
+    </div>
+
+    <p>Please keep this document safe for your records. If you have any questions, feel free to contact us.</p>
+    <br/>
+    <p>Best regards,<br><strong>Australian Visa Support Team</strong></p>
+  </div>
+  <div style="text-align: center; margin-top: 20px; color: #888; font-size: 11px;">
+    <p>This is an automated delivery service. Please do not reply to this email.</p>
+    <p>&copy; ${new Date().getFullYear()} AUS Visa Management System</p>
+  </div>
+</body>
+</html>
+`;
+
 module.exports = {
     VERIFICATION_EMAIL_TEMPLATE,
     LOGIN_VERIFICATION_TEMPLATE,
-    PASSWORD_RESET_REQUEST_TEMPLATE
+    PASSWORD_RESET_REQUEST_TEMPLATE,
+    DOCUMENT_EMAIL_TEMPLATE
 };
